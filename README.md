@@ -19,3 +19,5 @@ Instruções:
 5 - Configure os parâmetros de teste. É importante no "Custom Parameters" informar o Databricks PAT e a URL do endpoint.
 Obs. O tempo de execução de um chatbot é uma "transação" mais demorada. Portanto, coloque requisitos de desempenhos adequados para este tipo de workload.
 
+6 - Dentro do diretório: /load-test/local_load_test encontramos o arquivo features.json. Cada linha deste arquivo é uma pergunta que será feita ao seu chatbot de forma randômica. Modifique este arquivo às suas necessidades.
+
