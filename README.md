@@ -3,13 +3,16 @@
 Instruções:
 
 1 - Clone o repositório https://github.com/ctakamiya/queue-load-test
-$ git clone https://github.com/ctakamiya/queue-load-test.git
+
+`$ git clone https://github.com/ctakamiya/queue-load-test.git
 
 2 - Entre no diretório:
-$ cd queue-load-test
+
+`$ cd queue-load-test
 
 3 - Execute o comando:
-$ docker compose up
+
+`$ docker compose up
 
 4 - Acesse o utilitário locust.io na URL: http://localhost:8089
 
