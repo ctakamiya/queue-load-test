@@ -4,7 +4,7 @@ Instruções:
 
 1 - Clone o repositório https://github.com/ctakamiya/queue-load-test
 
-'$ git clone https://github.com/ctakamiya/queue-load-test.git
+'''$ git clone https://github.com/ctakamiya/queue-load-test.git
 
 2 - Entre no diretório:
 
